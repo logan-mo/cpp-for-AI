@@ -18,7 +18,7 @@
 *.pdb
 
 # Compiled Dynamic libraries
-*.so
+*.soa
 *.dylib
 *.dll
 
@@ -39,3 +39,7 @@
 
 # debug information files
 *.dwo
+
+# My own
+.vscode
+*build/
